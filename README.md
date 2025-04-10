@@ -1,8 +1,6 @@
 # Sentiment Analysis of the DANA Application Reviews on Google Play Store
 
-This project focuses on performing sentiment analysis on user reviews of the **DANA** application obtained from the Google Play Store.
-
-The goal is to classify user sentiments (positive, neutral, or negative) and evaluate different feature extraction techniques and machine learning algorithms.
+This project focuses on performing sentiment analysis on user reviews of the **DANA** application obtained from the Google Play Store. The goal is to classify user sentiments (positive, neutral, or negative) and evaluate different feature extraction techniques and machine learning algorithms.
 
 ## Dataset
 
